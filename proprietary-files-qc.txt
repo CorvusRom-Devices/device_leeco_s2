@@ -89,9 +89,7 @@ product/lib64/libaptXHD_encoder.so|e13fa70c97caaa24d061678bdee608eb8850a69e
 vendor/bin/hvdcp_opti
 
 # Consumerir - from le_x10 (x850) - 7.1.1/LEXCNFN6061705181T/letv05181516
--vendor/app/UEIQuicksetSDKLeTV/UEIQuicksetSDKLeTV.apk|5f277e31c08585ca8e79f7fda0957bd577c99c7d
-vendor/bin/init.uei.sh|67fb65961843e5ba75e366eb33caf9a75ef1de66
-vendor/etc/UEISettings|8c08000238281ea08ea108f4d0935b1e83336f4c
+-vendor/app/UEIQuicksetSDKLeTV/UEIQuicksetSDKLeTV.apk|7695ecb344390d2cb78088eed67d3de782790d04
 
 # CNE - from LA.UM.8.6.r1-01900-89xx.0
 etc/cne/Nexus/ATT/ATT_profiles.xml|33e568627fd3f94dc45bca1c01ad10e6d8fb5b52
