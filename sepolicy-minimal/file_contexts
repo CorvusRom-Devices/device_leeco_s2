@@ -1,7 +1,5 @@
 # Root Directories & Symlinks
-/dsp(/.*)?               u:object_r:adsprpcd_file:s0
 /firmware(/.*)?          u:object_r:firmware_file:s0
-/persist(/.*)?           u:object_r:persist_file:s0
 
 # Block devices
 /dev/block/mmcblk0p25                                      u:object_r:devinfo_block_device:s0
