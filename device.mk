@@ -23,6 +23,11 @@ $(call inherit-product, vendor/leeco/s2/s2-vendor.mk)
 # Enable updating of APEXes
 $(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
 
+# LiveDisplay
+PRODUCT_PACKAGES += \
+    vendor.lineage.livedisplay@2.0-service-legacymm \
+    vendor.lineage.livedisplay@2.0-service-sysfs
+
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
