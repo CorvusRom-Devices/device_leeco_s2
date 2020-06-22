@@ -1,1 +1,2 @@
 type devinfo_block_device, dev_type;
+type sysfs_ir_enable, fs_type, sysfs_type;
