@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019-2020 The Dirty Unicorns Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Темы</string>
+    <!-- Footer -->
+    <string name="schedule_footer_info">При настройке расписания всегда устанавливайте время первого расписания на текущее время.\n\nНапример:\nЕсли текущее время:\nlf составляет 16:00 и вы хотите установить график с 06:00 до 18:00, первый шаблон будет установлен в 18:00, а второй - в 06:00.</string>
+    <!-- Accent Picker -->
+    <string name="theme_accent_picker_default">По умолчанию</string>
+    <!-- Navbar Picker -->
+    <string name="theme_navbar_picker_title">Стиль панели навигации</string>
+    <string name="theme_navbar_picker_summary">Выбрать стиль панели навигации</string>
+    <string name="theme_navbar_picker_oneplus">OnePlus</string>
+    <string name="theme_navbar_picker_oneui">One UI</string>
+    <string name="theme_navbar_picker_tecno">Tecno Camon</string>
+    <string name="theme_navbar_picker_asus">ASUS</string>
+    <!-- Accent Picker -->
+    <string name="theme_picker_default">По умолчанию</string>
+    <string name="accent_color">Выбор акцента</string>
+    <string name="accent_color_summary">Выбрать цвет акцента</string>
+    <!-- Dark theme -->
+    <string name="dark_theme_title">Тёмная тема</string>
+    <!-- Fonts -->
+    <string name="font_type_title">Тип шрифта</string>
+    <string name="font_type_summary">Выбрать тип шрифта</string>
+    <string name="font_type_default">По умолчанию</string>
+    <string name="font_type_2">Noto Serif / Source Sans Pro</string>
+    <string name="font_type_3">Aclonica</string>
+    <string name="font_type_4">Amarante</string>
+    <string name="font_type_5">Arvolato</string>
+    <string name="font_type_6">Bariol</string>
+    <string name="font_type_7">Cagliostro</string>
+    <string name="font_type_8">CircularStd</string>
+    <string name="font_type_9">Comic Sans</string>
+    <string name="font_type_10">Comfortaa</string>
+    <string name="font_type_11">Cool Story</string>
+    <string name="font_type_12">Exotwo</string>
+    <string name="font_type_13">Fira Sans</string>
+    <string name="font_type_14">Google Sans</string>
+    <string name="font_type_15">LG Smart Gothic</string>
+    <string name="font_type_16">Rosemary</string>
+    <string name="font_type_17">Rubik</string>
+    <string name="font_type_18">Samsung One</string>
+    <string name="font_type_19">San Francisco Pro</string>
+    <string name="font_type_20">OnePlus Slate</string>
+    <string name="font_type_21">Sony Sketch</string>
+    <string name="font_type_22">Storopia</string>
+    <string name="font_type_23">Surfer</string>
+    <string name="font_type_24">Ubuntu</string>
+    <string name="font_type_25">Linotte</string>
+    <!-- Adaptive icon shapes -->
+    <string name="adaptive_icon_shape_default">По умолчанию</string>
+    <string name="adaptive_icon_shape_teardrop">Каплевидная</string>
+    <string name="adaptive_icon_shape_squircle">Округлый квадрат</string>
+    <string name="adaptive_icon_shape_roundedrect">Скругленный прямоугольник</string>
+    <string name="adaptive_icon_shape_cylinder">Цилиндр</string>
+    <string name="adaptive_icon_shape_hexagon">Шестиугольник</string>
+    <string name="adaptive_icon_shape_roundedhexagon">Закругленный шестиугольник</string>
+    <string name="adaptive_icon_shape_pebble">Pebble</string>
+    <string name="adaptive_icon_shape_taperedrect">Сжатый Паром</string>
+    <string name="adaptive_icon_shape_vessel">Сосуд</string>
+    <string name="adaptive_icon_shape_title">Форма значка</string>
+    <string name="adaptive_icon_shape_dialog_title">Выберите форму значка</string>
+    <!-- QS tile styles -->
+    <string name="qs_tile_style_title">Стиль плиток быстрых настроек</string>
+    <string name="qs_tile_style_default">По умолчанию</string>
+    <string name="qs_tile_style_square">Квадрат</string>
+    <string name="qs_tile_style_squircletrim">Эллипс с окантовкой</string>
+    <string name="qs_tile_style_diamond">Ромб</string>
+    <string name="qs_tile_style_star">Звезда</string>
+    <string name="qs_tile_style_gear">Шестерня</string>
+    <string name="qs_tile_style_badge">Бейдж</string>
+    <string name="qs_tile_style_badgetwo">Бэйдж два</string>
+    <string name="qs_tile_style_circletrim">Круг с окантовкой</string>
+    <string name="qs_tile_style_dualtonecircletrim">Двухцветный круг</string>
+    <string name="qs_tile_style_cookie">Печенье</string>
+    <string name="qs_tile_style_circleoutline">Контурный круг</string>
+    <string name="qs_tile_style_wavey">Волна</string>
+    <string name="qs_tile_style_ninja">Ниндзя</string>
+    <string name="qs_tile_style_dottedcircle">Пунктирный круг</string>
+    <string name="qs_tile_style_attemptmountain">Попытка горы</string>
+    <string name="qs_tile_style_inkdrop">Корпус</string>
+    <string name="qs_tile_style_neonlike">Неоновый свет</string>
+    <string name="qs_tile_style_triangles">Треугольники</string>
+    <!-- Statusbar icons -->
+    <string name="statusbar_icons_default">По умолчанию</string>
+    <string name="statusbar_icons_filled">Заполнено</string>
+    <string name="statusbar_icons_rounded">Скругленный</string>
+    <string name="statusbar_icons_circular">Круговая</string>
+    <string name="statusbar_icons_title">Иконки статуса/быстрых настроек</string>
+    <string name="statusbar_icons_dialog_title">Выберите набор значков в строке состояния</string>
+    <!-- QS header style -->
+    <string name="qs_header_style_default">По умолчанию</string>
+    <string name="qs_header_style_grey">Серый</string>
+    <string name="qs_header_style_lightgrey">Светло-серый</string>
+    <string name="qs_header_style_accent">Цветовой акцент</string>
+    <string name="qs_header_style_transparent">Прозрачный</string>
+    <string name="qs_header_style_title">Стиль заголовка быстрых настроек</string>
+    <string name="qs_header_style_dialog_title">Выберите стиль заголовки быстрых настроек</string>
+    <!-- Switch styles -->
+    <string name="switch_style_title">Переключить стиль</string>
+    <string name="switch_default">По умолчанию</string>
+    <string name="switch_md2">Material Design 2</string>
+    <string name="switch_oneplus">OnePlus</string>
+    <string name="switch_tg">Telegram</string>
+    <string name="switch_narrow">Узкие</string>
+    <string name="switch_contained">Контейнер</string>
+    <string name="switch_retro">Ретро</string>
+    <string name="switch_stockish">Стоковый</string>
+    <string name="switch_style_dialog_title">Выберить стиль переключателя</string>
+    <!-- Themes -->
+    <string name="theme_type_title">Системная тема</string>
+    <string name="theme_type_summary">Выберите тему</string>
+    <string name="theme_type_light">Светлый</string>
+    <string name="theme_type_google_dark">Гугло-тёмный</string>
+    <string name="theme_type_pitch_black">Глубокий черный</string>
+    <string name="theme_type_solarized_dark">Соляризованный темный</string>
+    <string name="theme_type_choco_x">Choco X</string>
+    <string name="theme_type_baked_green">Темно зеленый</string>
+    <string name="theme_type_dark_grey">Тёмно-серый</string>
+    <string name="theme_type_material_ocean">Океан</string>
+    <string name="theme_type_corvus_clear">Чистый Corvus</string>
+    <string name="theme_other_category_title">Другое</string>
+    <string name="theme_button_delete_theme">Удалить тему</string>
+    <string name="theme_switch_persistent_title">Состояние постоянных переключателей</string>
+    <string name="theme_reset_dialog_title">Сбросить настройки темы</string>
+    <string name="theme_reset_dialog_message">Все параметры темы будут сброшены к настройкам по умолчанию. Это не затронет расписание.</string>
+    <string name="theme_reset_toast">Настройки темы по умолчанию</string>
+    <!-- Theme schedule -->
+    <string name="theme_schedule_title">Запланировать</string>
+    <string name="theme_schedule_summary">Установите расписание для системных тем</string>
+    <string name="theme_schedule_dyn_summary">тема запланирована</string>
+    <string name="theme_schedule_theme_title">Расписание темы</string>
+    <string name="theme_schedule_theme_summary">Выберите тему для расписания</string>
+    <string name="theme_schedule_none">Нет</string>
+    <string name="theme_schedule_custom_time">Включается в произвольное время</string>
+    <string name="theme_schedule_applied">тема применена</string>
+    <string name="theme_schedule_start_scheduled">тема начинается в</string>
+    <string name="theme_schedule_repeat_title">Расписание повторов</string>
+    <string name="theme_schedule_repeat_summary">Повторяющие ежедневные расписания</string>
+    <string name="theme_schedule_toasts_title">Показывать всплывающие сообщения</string>
+    <string name="theme_schedule_toasts_summary">Показывать всплывающие сообщения при запуске запланированных тем</string>
+</resources>
