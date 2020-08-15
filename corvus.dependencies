@@ -1,10 +1,38 @@
 [
   {
     "repository": "CorvusROM-Devices/vendor_leeco_s2",
-    "target_path": "vendor/leeco/s2"
+    "target_path": "vendor/leeco/s2",
+    "branch": "10",
+    "remote": "github"
   },
   {
     "repository": "CorvusROM-Devices/kernel_leeco_msm8976",
-    "target_path": "kernel/leeco/msm8976"
+    "target_path": "kernel/leeco/msm8976",
+    "branch": "10",
+    "remote": "github"
+  },
+  {
+    "repository": "aza786/android_hardware_qcom-caf_msm8952",
+    "target_path": "hardware/qcom-caf/msm8952",
+    "branch": "10",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_hardware_qcom_display",
+    "target_path": "hardware/qcom-caf/msm8952/display",
+    "branch": "lineage-17.1-caf-msm8952",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_hardware_qcom_media",
+    "target_path": "hardware/qcom-caf/msm8952/media",
+    "branch": "lineage-17.1-caf-msm8952",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom-caf/msm8952/audio",
+    "branch": "lineage-17.1-caf-msm8952",
+    "remote": "github"
   }
 ]
