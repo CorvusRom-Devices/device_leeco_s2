@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-<!-- Corvus maintainer -->
+    <!-- Corvus maintainer -->
     <string name="maintainer">Maintainer</string>
     <string name="corvus_maintainer">merser2005</string>
+
+    <!-- SELinux Status Force to show Permissive TEMP-->
+    <string name="selinux_status_enforcing">Permissive</string>
 
 </resources>
