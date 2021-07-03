@@ -20,3 +20,6 @@ binder_call(system_app, netd)
 binder_call(system_app, installd)
 binder_call(system_app, vold)
 binder_call(system_app, hal_power_default)
+
+# App Lock
+add_service(system_server, applock_service); 

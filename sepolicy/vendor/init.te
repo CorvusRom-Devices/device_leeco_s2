@@ -12,3 +12,10 @@ allow init mnt_vendor_file:dir mounton;
 allow init vendor_file:file execute_no_trans;
 
 allow init diag_device:chr_file rw_file_perms;
+
+allow init sysfs_battery_supply:file { setattr };
+
+allow init sysfs:file { setattr };
+allow init persist_file:lnk_file { read };
+allow init sysfs_livedisplay_tuneable:file { setattr };
+

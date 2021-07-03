@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2018-2020 The LineageOS Project
+# Copyright (C) 2018-2020 The corvusOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_s2.mk
+    $(LOCAL_DIR)/corvus_s2.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_s2-user \
-    lineage_s2-userdebug \
-    lineage_s2-eng
+    corvus_s2-user \
+    corvus_s2-userdebug \
+    corvus_s2-eng
